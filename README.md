@@ -23,3 +23,5 @@ Aunque soy una jugadora casual, me encanta disfrutar de mis tiempos libres y mom
 
 Tablero de trabajo:
   [PlayHeaven Tablero - Notion](https://www.notion.so/DPFS-PlayHeaven-1ccdd64a83f88094a0e7f89b39c70f28?pvs=4)
+Web:
+  [PlayHaeven Web](https://narellar.github.io/PlayHaeven/public/html/index.html)
